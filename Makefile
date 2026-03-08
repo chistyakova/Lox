@@ -4,7 +4,6 @@ SOURCES = lox/TokenType.java \
 			lox/Scanner.java \
 			lox/Lox.java \
 			lox/Parser.java \
-			lox/AstPrinter.java \
 			lox/Interpreter.java \
 			lox/Expr.java \
 			lox/RuntimeError.java \
